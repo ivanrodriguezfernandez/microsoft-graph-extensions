@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/microsoft-graph-extensions
+/microsoft-graph-extensions/obj
+/microsoft-graph-extensions/bin/Debug/netstandard2.0
+/microsoft-graph-extensions.IntegrationTests/obj
+/microsoft-graph-extensions.IntegrationTests/bin/Debug/netcoreapp2.2
+/microsoft-graph-console/bin/Debug/netcoreapp2.2
+/microsoft-graph-console/obj
